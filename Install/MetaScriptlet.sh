@@ -4,18 +4,18 @@ echo 'Scriptlet-MetaData'
 #KindleFetch
 if [ -f /mnt/us/extensions/KindleFetch/run.sh ] 
     then 
-        wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KindleFetch.sh -O /mnt/us/Documents/
+        curl https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KindleFetch.sh -O -L /mnt/us/Documents/
         fi
 #Alpine
 if [ -f /mnt/us/alpine_kindle_kual/start/start_gui.sh ]
     then
-        wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Alpine.sh -O /mnt/us/Documents/
+        curl https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Alpine.sh -O -L /mnt/us/Documents/
         fi
 #KoReader
 if [ -f /mnt/us/koreader/koreader.sh ]
     then
-        wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KOReader.sh -O /mnt/us/Documents/
+        curl https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KOReader.sh -O -L /mnt/us/Documents/
         fi
 #Meta-Scriptlet
-wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Meta-Script.sh -O /mnt/us/Documents/
+curl https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Meta-Script.sh -O -L /mnt/us/Documents/
 
