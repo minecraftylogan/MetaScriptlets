@@ -16,3 +16,8 @@ if [ -f /mnt/us/koreader/koreader.sh ]
     then
         wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KOReader.sh -O /mnt/us/Documents/
         fi
+#Meta-Scriptlet
+if [ -f /mnt/us/install/Meta-Script.sh ]
+    then 
+        wget https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Meta-Script.sh -O /mnt/us/Documents/
+        fi
