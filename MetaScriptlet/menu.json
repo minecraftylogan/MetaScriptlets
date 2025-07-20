@@ -1,0 +1,14 @@
+{
+	"comment001": "MetaScriptlet",
+	"items": [
+	{
+		"name": "metascriptlet",
+		"priority": -1,
+		"items": [
+			{"name": "- MetaScriptlet V1.0 -", "priority": 1, "action": "","exitmenu":false,"status": false},
+			{"name": "Download MetaScriptlets", "priority": 1, "action": "/mnt/us/extensions/MetaScriptlet/bin/MetaScriptlet.sh"}
+
+		]
+	}
+		]
+}
