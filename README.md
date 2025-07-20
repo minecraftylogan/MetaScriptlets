@@ -1,1 +1,4 @@
-To show how absolutely dog-water I am at scripting, here is a shitty Meta-Data grabber for Scriptlet icons. Just download the Install directory and place it in your documents directory. 
+To show how absolutely dog-water I am at scripting, here is a shitty Meta-Data grabber for Scriptlet icons. Just unzip from the releases and place in your extensions folder. Open up Kual and select "Download MetaScriptlets"
+
+Make sure you have airplane mode turned off and you are connected to a wifi network :D
+An update-checker and all the rest of the cool stuff is underway! :)
