@@ -15,3 +15,6 @@ fi
 if [ -f /mnt/us/koreader/koreader.sh ]; then
     curl -L -o /mnt/us/Documents/KOReader.sh https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KOReader.sh
 fi
+# Reboot at the end
+echo "Rebooting..."
+reboot
