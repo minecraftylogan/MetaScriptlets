@@ -15,6 +15,3 @@ fi
 if [ -f /mnt/us/koreader/koreader.sh ]; then
     curl -L -o /mnt/us/Documents/KOReader.sh https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/KOReader.sh
 fi
-
-# Meta-Scriptlet (always downloaded)
-curl -L -o /mnt/us/Documents/Meta-Script.sh https://github.com/minecraftylogan/Scriptlet-MetaData/raw/refs/heads/main/Install/Meta-Script.sh
