@@ -2,3 +2,6 @@ To show how absolutely dog-water I am at scripting, here is a shitty Meta-Data g
 
 Make sure you have airplane mode turned off and you are connected to a wifi network :D
 An update-checker and all the rest of the cool stuff is underway! :)
+
+Changelog: 
+  Version 0.0.10 is released!
