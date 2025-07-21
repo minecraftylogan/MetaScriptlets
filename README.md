@@ -3,6 +3,7 @@ To show how absolutely dog-water I am at scripting, here is a shitty Meta-Data g
 Make sure you have airplane mode turned off and you are connected to a wifi network :D
 An update-checker and all the rest of the cool stuff is underway! :)
 If you want more icons or anything, please do pull requests!
+
 Current supported Scriptlets
 *   KindleFetch
 *   Alpine
